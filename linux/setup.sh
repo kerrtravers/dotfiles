@@ -15,7 +15,7 @@ echo "Installing packages"
 sudo apt install git
 sudo apt install nodejs
 sudo apt install npm
-sudo apt install snapq
+sudo apt install snapd
 
 # Install snap packages
 echo "Installing Snap packages"
