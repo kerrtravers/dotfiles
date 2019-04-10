@@ -21,6 +21,8 @@ sudo apt install libavcodec-extra
 sudo apt install libdvd-pkg
 sudo apt install wine-stable
 sudo apt install gdebi
+sudo apt install gedit
+sudo apt install meson
 sudo apt install software-properties-common
 sudo apt-get install chromium-browser
 sudo apt-get install unace rar unrar p7zip-rar p7zip sharutils uudeview mpack arj cabextract lzip lunzip
