@@ -1,0 +1,23 @@
+[user]
+  email = kerrtravers6@gmail.com
+  name = kerrtravers
+
+[credential]
+  helper = osxkeychain
+
+[core]
+  editor = vscode
+
+[filter "lfs"]
+  clean = git-lfs clean -- %f
+  smudge = git-lfs smudge -- %f
+  process = git-lfs filter-process
+  required = true
+
+[alias]
+  b = branch
+  c = commit
+  cl = clone
+  p = push
+  a = add
+  cm = commit -m
