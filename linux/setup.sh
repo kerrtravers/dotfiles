@@ -15,6 +15,7 @@ echo "Installing packages"
 sudo apt install git
 sudo apt install nodejs
 sudo apt install npm
+sudo apt install snapq
 
 # Install snap packages
 echo "Installing Snap packages"
@@ -25,6 +26,7 @@ sudo snap install discord
 sudo snap install telegram-desktop
 sudo snap install spotify
 sudo snap install mailspring
+sudo snap install snap-store
 
 # Create Sites directory
 echo "Creating a Sites directory"
