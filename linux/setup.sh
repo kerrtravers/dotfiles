@@ -44,4 +44,4 @@ echo "Cleaning apt-get cache"
 sudo apt-get clean
 
 # Complete
-echo "Setup Complete"
+echo "Setup Complete - !! Please restart your device to make sure all new software is working as expected !!"
