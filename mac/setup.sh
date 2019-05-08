@@ -40,7 +40,7 @@ homebrew_cask_packages=(
   "authy"
   "discord"
   "google-chrome"
-  "iterm2"
+  "hyper"
   "slack"
   "spotify"
   "visual-studio-code"
