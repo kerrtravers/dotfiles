@@ -11,5 +11,6 @@
 
 You will be asked to input your password.
 
-#### Other info
-Credit to @damcclean for ideas and parts of code, please star this repo if you use it. 
+<hr>
+
+Credit to @damcclean for ideas and parts of code.
