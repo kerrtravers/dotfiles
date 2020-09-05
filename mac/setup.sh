@@ -40,11 +40,12 @@ homebrew_cask_packages=(
   "authy"
   "discord"
   "google-chrome"
-  "hyper"
+  "iterm2"
   "slack"
   "spotify"
   "visual-studio-code"
   "whatsapp"
+  "mailspring"
 )
 
 for homebrew_cask_package in "${homebrew_cask_packages[@]}"; do
